@@ -1,0 +1,10 @@
+{
+	"name": "AirBnbADLS",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://seconddatalake2.dfs.core.windows.net/"
+		}
+	}
+}
