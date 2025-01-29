@@ -1,0 +1,11 @@
+{
+	"name": "adls_stg",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://azureda.blob.core.windows.net/",
+			"accountKind": "StorageV2"
+		}
+	}
+}
